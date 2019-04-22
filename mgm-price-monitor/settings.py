@@ -1,8 +1,8 @@
-MGM_EMAIL = "max.louis-juste@cibc.com"
-MGM_PASSWORD = "Uoftfinalproject1"
+MGM_EMAIL = "user_email"
+MGM_PASSWORD = "user_pass"
 
-SENDGRID_API_KEY = "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"
-EMAIL_TO = "maxlouisjuste@gmail.com"
+SENDGRID_API_KEY = "user_apikey"
+EMAIL_TO = "user_email"
 
 bookedRoomList = [
     {
